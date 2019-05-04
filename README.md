@@ -1,4 +1,4 @@
 # Neural_Network_PDE
-Ordinary differential equation
-Second order differential equation
-Partial differential equation
+1. Ordinary differential equation
+2. Second order differential equation
+3. Partial differential equation
