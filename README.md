@@ -6,3 +6,4 @@
 4. ODE2_Mid: Another second order differential equation (more complex)
 5. ODE2_mid_Activation_comparison: Compare eight activation functions
 6. PDE: Partial differential equation
+7. Mathematical description 
